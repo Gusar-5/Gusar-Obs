@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "79a62c11931fdcc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "27a0a80de679499e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64c0c59809ad97a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ДЗ Цикл for - 2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cbe703bde58b332a",
+    "type": "split",
+    "children": [
+      {
+        "id": "457642a818c6ea46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0190fb316c494d8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "135d520a2177e7ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          },
+          {
+            "id": "f89b3037f6e42bbb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 362.5
+  },
+  "right": {
+    "id": "9b84efcd34fecd8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc56ea7b73e0e3a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aadf93b18d47990",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для ДЗ Цикл for - 2"
+            }
+          },
+          {
+            "id": "fd5b7a8ba0ac7b00",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Академия/Python/Учёба/Функция IF, ELSE, ELIF.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Функция IF, ELSE, ELIF"
+            }
+          },
+          {
+            "id": "616b2540025fdaef",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "234ad4c9951bdb86",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Академия/Python/Учёба/Функция IF, ELSE, ELIF.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Функция IF, ELSE, ELIF"
+            }
+          },
+          {
+            "id": "50481355d3cb074f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          },
+          {
+            "id": "ea452ac27be26bbf",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Плагин больше не активен"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-dangling-links:Show dangling links panel": false,
+      "vscode-editor:Create Code File": false
+    }
+  },
+  "active": "64c0c59809ad97a9",
+  "lastOpenFiles": [
+    "Academy/Python/Cod_Python/DZ/Вывести числа, делящиеся на без остатка, в диапазоне.py",
+    "Ресурсы/Pasted image 20250523212029.png",
+    "Ресурсы/Pasted image 20250523212014.png",
+    "Academy/Python/Учёба/Урок For.md",
+    "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
+    "Academy/Python/Cod_Python/DZ/Вывод А и В по возрастанию (убыванию).py",
+    "Ресурсы/Pasted image 20250523025135.png",
+    "Ресурсы/Pasted image 20250523025108.png",
+    "Academy/Python/Домашка/ДЗ Цикл for.md",
+    "Academy/Python/Cod_Python/DZ/Рандом от 0 до n.py",
+    "Academy/Python/Домашка/ДЗ Цикл for.pdf",
+    "Academy/Python/Cod_Python/_os.py.py",
+    "Academy/Python/Cod_Python/Факториал.py",
+    "Academy/Python/Cod_Python/Урок For.py",
+    "Academy/Python/Cod_Python/У3 камень-ножницы-бумаг.py",
+    "Academy/Python/Cod_Python/У2 выбор случайного числа.py",
+    "Academy/Python/Cod_Python/У1 Считает числа.py",
+    "Academy/Python/Cod_Python/Сравнение чисел.py",
+    "Академия/Python/Учёба/Урок For.md",
+    "Academy/Системная Администрация/Домашка/Виртуализация/Основы работы с VirtalBox.md",
+    "Academy/Системная Администрация/Домашка/Виртуализация/ДЗ 6.md",
+    "Academy/Системная Администрация/Домашка/Виртуализация/Основы Linux.md",
+    "Academy/Системная Администрация/Домашка/Виртуализация/ДЗ 5.md",
+    "Academy/Системная Администрация/Учёба/Установка ПО в TinyCore.md",
+    "Academy/Системная Администрация/Учёба/Тестовый редактор VI.md",
+    "Academy/Системная Администрация/Учёба/Стандарт POSIX.md",
+    "Academy/Python/Учёба/Язык программирования Python.md",
+    "Academy/Python/Учёба/Функция IF, ELSE, ELIF.md",
+    "Academy/Python/Учёба/Программы для КОДа Python.md",
+    "Academy/Python/Учёба/Оператор PRINT, INPUT.md",
+    "Academy/Python/Учёба/Общие сведения.md",
+    "Academy/Python/Учёба/For - используется для итерации (перебора) по элементам.md",
+    "Academy/Python/Учёба/Random - генератор псевдослучайных чисел.md",
+    "Academy/Python/Домашка/ДЗ Функция print() и арифметика в Python.md",
+    "Academy/Python/Домашка/ДЗ Логические операторы и операторы ветвлени.md",
+    "Academy/Python/Домашка/ДЗ Задачи на if, elif и esle.md",
+    "Academy/Python/Домашка/ДЗ Введение в Питон.md",
+    "Academy/Системная Администрация/Сис. Админ. (учеб. пособия).md",
+    "Academy/Ручное тестирование/ДЗ Тест -план.md",
+    "Academy/Ручное тестирование/2 Потребность в продукте.md",
+    "Ресурсы/Pasted image 20250522204031.png",
+    "Ресурсы/Pasted image 20250522203415.png",
+    "Ресурсы/Pasted image 20250522202718.png",
+    "Ресурсы/Pasted image 20250522201421.png",
+    "Ресурсы/Pasted image 20250522200144.png",
+    "Ресурсы/Pasted image 20250522193845.png"
+  ]
+}

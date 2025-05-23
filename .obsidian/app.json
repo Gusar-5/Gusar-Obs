@@ -1,0 +1,16 @@
+{
+  "livePreview": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "Ресурсы",
+  "userIgnoreFilters": null,
+  "propertiesInDocument": "source",
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
