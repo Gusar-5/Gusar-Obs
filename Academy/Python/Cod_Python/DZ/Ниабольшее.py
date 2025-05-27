@@ -5,6 +5,6 @@ while True:
     if f == s:
         print("\nЗначения равные. Попробуйте снова.")
     else:
-        g =  f if f > s else s
-        print(f"\nЗначения {g} наибольшее")
+        g = f if f > s else s
+        print(f"\nЗначение {g:.0f} наибольшее")
         print()

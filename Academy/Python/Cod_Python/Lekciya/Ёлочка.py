@@ -1,7 +1,6 @@
-# Ёлочка
+m = [1]
+total = 0
+for i in m:
+    total += i
+print(total)  # Вывод: 15
 
-p = "*"
-for i in range(7):
-    print(p * (i + 1))
-print("**")
-print("**")

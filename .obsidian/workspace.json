@@ -11,14 +11,12 @@
             "id": "64c0c59809ad97a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "vscode-editor",
               "state": {
-                "file": "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Academy/Python/Cod_Python/DZ/Вывод А и В по возрастанию (убыванию).py"
               },
               "icon": "lucide-file",
-              "title": "ДЗ Цикл for - 2"
+              "title": "Вывод А и В по возрастанию (убыванию)"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
+                "file": "Academy/Python/Cod_Python/DZ/Вывод А и В по возрастанию (убыванию).py",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ДЗ Цикл for - 2"
+              "title": "Обратные ссылки для Вывод А и В по возрастанию (убыванию)"
             }
           },
           {
@@ -193,31 +191,36 @@
   },
   "active": "64c0c59809ad97a9",
   "lastOpenFiles": [
+    "Academy/Python/Учёба/Random - генератор псевдослучайных чисел.md",
+    "Academy/Python/Язык программирования Python.md",
+    "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
+    "ДЗ for.rar",
+    "ДЗ for/Сумма 10 чисел.py",
+    "ДЗ for/Рандом от 0 до n.py",
+    "ДЗ for/ДЗ Цикл for - 2.pdf",
+    "ДЗ for/Вывод А и В по возрастанию (убыванию).py",
+    "ДЗ for/Вывести числа, делящиеся на без остатка на 5.py",
+    "ДЗ for",
+    "Ресурсы/Pasted image 20250524214001.png",
+    "Ресурсы/Pasted image 20250524213938.png",
+    "Ресурсы/Pasted image 20250524212409.png",
+    "Ресурсы/Pasted image 20250524212320.png",
+    "Academy/Python/Домашка/ДЗ Цикл for - 2.pdf",
+    "Academy/Python/Учёба/Урок For.md",
+    "Academy/Python/Учёба/Программы для КОДа Python.md",
+    "Academy/Python/Учёба/Оператор PRINT, INPUT.md",
+    "Academy/Python/Учёба/Функция IF, ELSE, ELIF.md",
+    "Academy/Python/Общие сведения.md",
+    "Academy/Python/Учёба/For - используется для итерации (перебора) по элементам.md",
     "Academy/Python/ДЗ for.rar",
     "Academy/Python/ДЗ for/Сумма 10 чисел.py",
-    "Academy/Python/ДЗ for/Рандом от 0 до n.py",
-    "Academy/Python/ДЗ for/ДЗ Цикл for - 2.pdf",
-    "Academy/Python/ДЗ for/Вывод А и В по возрастанию (убыванию).py",
-    "Academy/Python/ДЗ for/Вывести числа, делящиеся на без остатка на 5.py",
-    "Academy/Python/ДЗ for",
-    "Academy/Python/Новая папка",
-    "Academy/Python/desktop.ini",
-    "Academy/Python/ДЗ Цикл for - 2.pdf",
-    "Academy/Python/Домашка/ДЗ Цикл for - 2.pdf",
     "Ресурсы/Pasted image 20250524005043.png",
     "Ресурсы/Pasted image 20250524004841.png",
     "Ресурсы/Pasted image 20250524003809.png",
     "Ресурсы/Pasted image 20250524003745.png",
     "Ресурсы/Pasted image 20250524001810.png",
     "Ресурсы/Pasted image 20250524001725.png",
-    "Academy/Python/Учёба/For - используется для итерации (перебора) по элементам.md",
     "Academy/Python/Домашка/ДЗ Цикл for.md",
-    "Academy/Python/Учёба/Урок For.md",
-    "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
-    "Ресурсы/Pasted image 20250523233620.png",
-    "Ресурсы/Pasted image 20250523233332.png",
-    "Ресурсы/Pasted image 20250523233304.png",
-    "Ресурсы/Pasted image 20250523233245.png",
     "Academy/Python/Домашка/ДЗ Задачи на if, elif и esle.md",
     "Академия/Python/Учёба/Урок For.md",
     "Academy/Системная Администрация/Домашка/Виртуализация/Основы работы с VirtalBox.md",
@@ -227,12 +230,6 @@
     "Academy/Системная Администрация/Учёба/Установка ПО в TinyCore.md",
     "Academy/Системная Администрация/Учёба/Тестовый редактор VI.md",
     "Academy/Системная Администрация/Учёба/Стандарт POSIX.md",
-    "Academy/Python/Учёба/Язык программирования Python.md",
-    "Academy/Python/Учёба/Функция IF, ELSE, ELIF.md",
-    "Academy/Python/Учёба/Программы для КОДа Python.md",
-    "Academy/Python/Учёба/Оператор PRINT, INPUT.md",
-    "Academy/Python/Учёба/Общие сведения.md",
-    "Academy/Python/Учёба/Random - генератор псевдослучайных чисел.md",
     "Academy/Python/Домашка/ДЗ Функция print() и арифметика в Python.md",
     "Academy/Python/Домашка/ДЗ Логические операторы и операторы ветвлени.md",
     "Academy/Python/Домашка/ДЗ Введение в Питон.md",
