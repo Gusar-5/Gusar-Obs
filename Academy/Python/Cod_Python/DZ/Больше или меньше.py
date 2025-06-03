@@ -10,5 +10,3 @@ while True:
     else:
         print(f"\nЗначение {s} больше {f}.")
         break  # Выход из цикла
-    
- 

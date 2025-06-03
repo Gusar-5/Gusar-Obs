@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "27a0a80de679499e",
+        "id": "c170767f99b06460",
         "type": "tabs",
         "children": [
           {
-            "id": "64c0c59809ad97a9",
+            "id": "c27bf00c29141110",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academy/Python/Домашка/ДЗ Цикл for. Практика.md",
+                "file": "Academy/Python/Домашка/ДЗ Введение в Питон.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ДЗ Цикл for. Практика"
+              "title": "ДЗ Введение в Питон"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academy/Python/Домашка/ДЗ Цикл for. Практика.md",
+                "file": "Academy/Python/Домашка/ДЗ Введение в Питон.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для ДЗ Цикл for. Практика"
+              "title": "Обратные ссылки для ДЗ Введение в Питон"
             }
           },
           {
@@ -191,34 +191,40 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "64c0c59809ad97a9",
+  "active": "c27bf00c29141110",
   "lastOpenFiles": [
-    "ДЗ Цикл for. Практика.rar",
-    "Ресурсы/Pasted image 20250529020209.png",
-    "Ресурсы/Pasted image 20250529020150.png",
-    "Academy/Python/План изучения For (на неделю).md",
+    "Academy/Python/Домашка/ДЗ Функция print() и арифметика в Python.md",
+    "Academy/Python/Cod_Python/DZ/Из Цельсия в Фаренгейт.py",
+    "Ресурсы/Pasted image 20250602014927.png",
+    "Ресурсы/Pasted image 20250602014909.png",
+    "Academy/Python/Домашка/ДЗ Функция print() и арифметика в Python.pdf",
+    "Academy/Python/Домашка/ДЗ Логические операторы и операторы ветвлени.md",
+    "Academy/Python/Домашка/ДЗ Задачи на if, elif и esle.md",
+    "Academy/Python/Домашка/ДЗ Введение в Питон.md",
+    "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
     "Academy/Python/Домашка/ДЗ Цикл for.md",
     "Academy/Python/Домашка/ДЗ Цикл for. Практика.md",
-    "Academy/Python/Домашка/ДЗ Цикл for. Практика.pdf",
-    "Academy/Python/Домашка/ДЗ Цикл for - 2.md",
-    "Ресурсы/Pasted image 20250528190918.png",
-    "Ресурсы/Pasted image 20250528190859.png",
-    "ДЗ Цикл for. Практика/Выделение числа в заданном диапазоне.py",
-    "ДЗ Цикл for. Практика/Куб по параметрам.py",
-    "ДЗ Цикл for. Практика/ДЗ Цикл for. Практика.pdf",
-    "ДЗ Цикл for. Практика",
-    "Новая папка/ДЗ Цикл for. Практика.pdf",
-    "Новая папка",
-    "Ресурсы/Pasted image 20250528162812.png",
-    "Ресурсы/Pasted image 20250528162630.png",
-    "Ресурсы/Pasted image 20250528154637.png",
-    "Ресурсы/Pasted image 20250528154441.png",
-    "Ресурсы/Pasted image 20250528154350.png",
-    "Academy/Python/Cod_Python/DZ/Выделение числа в заданном диапазоне.py",
-    "Ресурсы/Pasted image 20250528135301.png",
-    "Academy/Python/Cod_Python/DZ/Куб по параметрам.py",
+    "Ресурсы/Pasted image 20250602013904.png",
+    "Ресурсы/Pasted image 20250602013834.png",
+    "Ресурсы/Pasted image 20250602012349.png",
+    "Ресурсы/Pasted image 20250602012332.png",
+    "Academy/Python/Домашка/ДЗ Цикл while и break.md",
+    "Ресурсы/Pasted image 20250530125627.png",
+    "Ресурсы/Pasted image 20250530125541.png",
+    "Ресурсы/Pasted image 20250530125428.png",
+    "Ресурсы/Pasted image 20250529194501.png",
+    "Academy/Python/Cod_Python/DZ/Ввод чисел до Нуля.py",
+    "Academy/Python/Cod_Python/DZ/Игра Камень-ножницы-бумага.py",
+    "Academy/Python/Cod_Python/DZ/Больше или меньше.py",
+    "Academy/Python/Учёба/Цикл while в Python.md",
+    "ДЗ Цикл while и break.rar",
+    "ДЗ Цикл while и break/Ввод чисел до Нуля.py",
+    "ДЗ Цикл while и break/Умный Бот Игра в 100.py",
+    "ДЗ Цикл while и break/Игра Кто первый скажет 100.py",
+    "ДЗ Цикл while и break/Игра Камень-ножницы-бумага.py",
+    "Academy/Python/Учёба/Булевская переменная True и False и while.md",
+    "Academy/Python/План изучения For (на неделю).md",
     "Academy/Python/Учёба/Оператор PRINT, INPUT.md",
-    "Academy/Python/Домашка/ДЗ Введение в Питон.md",
     "Academy/Python/Учёба/Урок For.md",
     "Академия/Python/Учёба/Урок For.md",
     "Academy/Системная Администрация/Учёба/Установка ПО в TinyCore.md",
@@ -231,12 +237,6 @@
     "Academy/Системная Администрация/Сис. Админ. (учеб. пособия).md",
     "Academy/Ручное тестирование/ДЗ Тест -план.md",
     "Academy/Ручное тестирование/2 Потребность в продукте.md",
-    "Academy/Ручное тестирование/1 Качественный продукт.md",
-    "Academy/Python/Учёба/Функция IF, ELSE, ELIF.md",
-    "Academy/Python/Учёба/Программы для КОДа Python.md",
-    "Academy/Python/Учёба/Random - генератор псевдослучайных чисел.md",
-    "Academy/Python/Учёба/For - используется для итерации (перебора) по элементам.md",
-    "Academy/Python/Домашка/ДЗ Функция print() и арифметика в Python.md",
-    "Academy/Python/Домашка/ДЗ Логические операторы и операторы ветвлени.md"
+    "Academy/Ручное тестирование/1 Качественный продукт.md"
   ]
 }
