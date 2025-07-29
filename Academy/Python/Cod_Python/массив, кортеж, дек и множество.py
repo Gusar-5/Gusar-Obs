@@ -4,7 +4,6 @@ import array
 import time
 from collections import deque
 
-# Создаём два списка
 s1 = []
 s2 = []
 

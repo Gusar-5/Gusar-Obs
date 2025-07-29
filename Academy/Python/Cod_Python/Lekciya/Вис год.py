@@ -1,0 +1,8 @@
+def sum(i):
+    if v % 4 == 0 or (v % 100 == 0 and v % 400 == 0):
+         print(f"\n{v} - Високосный год\n")
+    else:
+        print(f"\n{v} - Не високосный год\n")    
+
+v = int(input('Введите число: '))
+sum(v)
